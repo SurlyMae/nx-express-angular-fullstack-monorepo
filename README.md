@@ -3,7 +3,7 @@
 ### [Monorepo](https://monorepo.tools/) Starter Kit
 
 - [Angular](https://angular.io/) client
-- [NestJS](https://nestjs.com/) backend
+- [Express](https://expressjs.com/) middleware
 - [MongoDB](https://www.mongodb.com/) database
 - [Nx](https://nx.dev) build system
 - [TypeScript](https://www.typescriptlang.org/)
