@@ -1,6 +1,6 @@
 # FullstackMonorepo
 
-### [Monorepo](https://monorepo.tools/) Starter Kit (WIP July '22)
+### [Monorepo](https://monorepo.tools/)
 
 - [Angular](https://angular.io/) client
 - [Express](https://expressjs.com/) middleware
